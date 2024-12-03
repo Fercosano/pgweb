@@ -117,7 +117,7 @@ body#index main section:nth-child(2) article p {
 }
 
 body#index section#parrilla {
-    background-image: url('../comida/logobk/2023-10-09.jpg'); 
+    background-image: url('./comida/logobk/2023-10-09.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
