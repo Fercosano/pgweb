@@ -17,18 +17,18 @@ body#index header nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 90%;
+    width: 100%;
     margin: auto;
 }
 
 body#index header nav .logo {
-    max-width: 120px;
+    max-width: 90px;
 }
 
 body#index header nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 10px;
     margin: 0;
     padding: 0;
 }
